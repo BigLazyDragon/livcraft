@@ -1,10 +1,14 @@
 ---
 title: Livcraft
 ---
+<header>
+
 # Livcraft
 ## A [LivPosting](https://www.twitch.tv/livposting) minecraft fan server
 
-[Join](join.md)
+<span class="join">[Join](join.md)</span>
+
+</header>
 
 - [Rules](rules.md)
 - [FAQ](faq.md)
