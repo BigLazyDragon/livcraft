@@ -1,4 +1,3 @@
-# livcraft
 ## FAQ
 - *How do I join the server?*
   - You need to be in the [LivPosting Discord](https://discord.gg/9s7TvFx) and have the Minecraft role (self-assignable in the *#pronouns* channel). 
