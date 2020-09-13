@@ -1,18 +1,13 @@
 :root {
     --text-color: #24292e;
-    font-family: Arial;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     color: var(--text-color);
 }
 
-html {
-    height: 100%;
-}
-
 body {
-    background: linear-gradient(to right bottom, #f7f7f7, #c8c8c8);
     margin: 0;
-    height: 100%;
 }
 
 main {
@@ -24,6 +19,7 @@ main {
 }
 
 a {
+    color: #0366d6;
     text-decoration: none;
 }
 
@@ -31,19 +27,39 @@ a:hover {
     text-decoration: underline;
 }
 
-ul, ol {
-    margin: 0;
-}
-
-p {
+p, pre, ul, ol {
     margin-top: 0;
     margin-bottom: 16px;
 }
 
-code {
-    padding: 0.2em 0.4em;
-    font-size: 85%;
-    background-color: rgba(27, 31, 35, 0.05);
-    border-radius: 3px;
+li>p {
+    margin-top: 16px;
+}
+
+code, pre {
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 85%;
+}
+
+code {
+    background-color: rgba(27, 31, 35, 0.05);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
+
+pre {
+    padding: 16px;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 6px;
+}
+
+pre code {
+    padding: 0;
+    border: 0;
+}
+
+pre>code {
+    font-size: 100%;
+    background: none;
 }
