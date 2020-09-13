@@ -1,1 +1,5 @@
-# theme: jekyll-theme-merlot
+title: Livcraft
+theme: null
+markdown: GFM
+plugins:
+ - jekyll-seo-tag
