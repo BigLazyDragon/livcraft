@@ -9,12 +9,12 @@ layout: post
 
 `/spawn` to teleport to spawn (overworld)
 
-`/lock` `/unlock` to protect chests 
-
 `/sethome <name>` and `/home <name>` to save / teleport to a place (max. 3 homes)
 
 `/tpa` `/tpahere` `/tpaccept` to request teleports to / from other players
 
-`/mvtp creative_plots` to teleport to creative world (worldedit is available, [command reference](https://wiki.intellectualsites.com/FastAsyncWorldEdit/Commands))
+`/lock` `/unlock` to protect chests
+
+In the creative world you can use WorldEdit ([command reference](https://wiki.intellectualsites.com/FastAsyncWorldEdit/Commands))
 
 `/plot help` to manage plots in the creative world

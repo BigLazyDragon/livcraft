@@ -7,7 +7,7 @@ layout: home
 # Livcraft
 ## A [LivPosting](https://www.twitch.tv/livposting) minecraft fan server
 
-<span class="join">[Join](join.md)</span>
+<span class="join">[Join!](join.md)</span>
 
 </header>
 
