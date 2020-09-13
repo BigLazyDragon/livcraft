@@ -1,5 +1,6 @@
 title: Livcraft
 theme: null
 markdown: GFM
+exclude: ['./README.md']
 plugins:
  - jekyll-seo-tag
