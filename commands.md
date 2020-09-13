@@ -1,5 +1,6 @@
 ---
-title: Commands | Livcraft
+title: Commands
+layout: post
 ---
 # Useful commands
 `/pronouns` to show your pronouns when people hover over your name in the minecraft chat 

@@ -1,0 +1,49 @@
+:root {
+    --text-color: #24292e;
+    font-family: Arial;
+    font-size: 16px;
+    color: var(--text-color);
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(to right bottom, #f7f7f7, #c8c8c8);
+    margin: 0;
+    height: 100%;
+}
+
+main {
+    display: block;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 16px;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    margin: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 85%;
+    background-color: rgba(27, 31, 35, 0.05);
+    border-radius: 3px;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}

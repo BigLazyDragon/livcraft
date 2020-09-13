@@ -1,5 +1,6 @@
 ---
-title: Join | Livcraft
+title: Join
+layout: post
 ---
 # This is how you join the server
 

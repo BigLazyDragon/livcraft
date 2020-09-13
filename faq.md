@@ -1,5 +1,6 @@
 ---
-title: FAQ | Livcraft
+title: FAQ
+layout: post
 ---
 # FAQ
 

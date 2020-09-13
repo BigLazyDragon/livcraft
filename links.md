@@ -1,5 +1,6 @@
 ---
-title: Links | Livcraft
+title: Links
+layout: post
 ---
 # Useful links
 [Google Doc](https://docs.google.com/document/d/1Kg6Bz1Vx71E0tuEUM7n_-KhoONEb2jrjLnSSCxmz8tQ/edit) with a list of projects, towns, useful coordiantes and other additional information

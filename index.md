@@ -1,5 +1,6 @@
 ---
 title: Livcraft
+layout: home
 ---
 <header>
 
