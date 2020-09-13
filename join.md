@@ -13,3 +13,6 @@ layout: post
 3. On joining, you will be given a code to send to the *livcraft* bot (via Discord DM). Your Discord and Minecraft accounts will be linked.
 4. Rejoin the server.
 5. Have fun
+
+<link rel='stylesheet' href='css/bee.css'>
+<img class="bee" src="images/bee.png" alt="a beautiful trans bee" title="trans bee"/>
