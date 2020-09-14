@@ -7,11 +7,24 @@
     animation: pulse 2s ease-in-out alternate infinite;
 }
 
+.bee img:hover {
+    animation: vibe .1s ease-in-out alternate infinite;
+}
+
 @keyframes pulse {
     0% {
         transform: translateY(0px);
     }
     100% {
         transform: translateY(30px);
+    }
+}
+
+@keyframes vibe {
+    0% {
+        transform: rotate(-10deg);
+    }
+    100% {
+        transform: rotate(10deg);
     }
 }
