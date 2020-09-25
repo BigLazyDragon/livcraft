@@ -5,6 +5,7 @@ layout: home
 <header>
 
 # Livcraft
+
 ## A [LivPosting](https://www.twitch.tv/livposting) minecraft fan server
 
 <span class="join">[Join!](join.md)</span>

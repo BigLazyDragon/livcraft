@@ -3,9 +3,10 @@ title: Commands
 layout: post
 ---
 # Useful commands
+
 `/help` to list some of the server commands
 
-`/pronouns` to show your pronouns when people hover over your name in the minecraft chat 
+`/pronouns` to show your pronouns when people hover over your name in the minecraft chat
 
 `/afk` marks you as away-from-keyboard
 
