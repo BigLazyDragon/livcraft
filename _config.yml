@@ -1,5 +1,6 @@
 title: Livcraft
 theme: null
+permalink: pretty
 markdown: GFM
 exclude: ['./README.md']
 plugins:
