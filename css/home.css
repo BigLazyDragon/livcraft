@@ -4,6 +4,8 @@ header {
     display: inline-block;
     width: 100%;
     height: 340px;
+    text-align: center;
+    color: white;
     background-color: #cd633b;
     background-image: url(/images/header.jpg);
     background-position: bottom center;
@@ -17,7 +19,6 @@ header h1 {
     font-size: 60px;
     font-weight: 700;
     line-height: 1.5;
-    text-align: center;
     color: #ffcb00;
     border: 0;
     background-color: rgba(0, 0, 0, 0.5);
@@ -26,25 +27,22 @@ header h1 {
 
 header h2 {
     margin: 0;
-    font-size: 16px;
-    text-align: center;
-    color: white;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+    font-size: 18px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
 }
 
-header a {
-    color: #a6bad0
+header h2 a {
+    color: #a6bad0;
 }
 
 .join a {
     display: block;
     width: 200px;
-    padding: 6px;
-    margin: 50px auto;
+    padding: 4px;
+    margin: 40px auto;
     font-size: 30px;
     font-weight: 600;
     font-variant: small-caps;
-    text-align: center;
     text-decoration: none;
     color: white;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
@@ -68,12 +66,19 @@ ul li {
 }
 
 ul li a {
-    margin: 10px 10px;
-    padding: 10px;
+    margin: 10px;
+    padding: 8px;
     font-weight: bold;
     display: inline-block;
     color: inherit;
     border-color: var(--theme-text-color);
     border-style: solid;
     border-width: 2px;
+    transition: color .2s ease-in-out, border-color .2s ease-in-out;
+}
+
+ul li a:hover {
+    text-decoration: none;
+    color: var(--theme-text-light-color);
+    border-color: var(--theme-text-light-color);
 }

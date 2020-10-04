@@ -1,8 +1,15 @@
+/* default styles shared in all pages */
+
 :root {
     --theme-text-color: #24292e;
+    --theme-text-light-color: #24292ea3;
     --theme-border-color: #dfe2e5;
     --theme-bg-color: #f6f8fa;
     --theme-light-color: #6a737d;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 body {
@@ -10,16 +17,16 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 15px;
+    line-height: 1.6;
     color: var(--theme-text-color);
 }
 
 main {
     display: block;
     position: relative;
-    max-width: 1000px;
+    max-width: 1024px;
     margin: 0 auto;
-    padding: 0 16px;
-    line-height: 1.6;
+    padding: 0 12px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -68,6 +75,10 @@ a:hover {
 p, pre, ul, ol, table, blockquote {
     margin-top: 0;
     margin-bottom: 16px;
+}
+
+ul, ol {
+    padding-left: 2em;
 }
 
 li>p {
