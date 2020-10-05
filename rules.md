@@ -1,8 +1,9 @@
 ---
-title: Commands
+title: Rules
 layout: post
 ---
 # Rules
+
 - Use common sense, don't be terrible
 - No verbal abuse or racism, homophobia, transphobia, etc. (admins can see your PMs)
 - Swearing is fine but in general please refrain from sexual discussions, there are literal kids on here sometimes
